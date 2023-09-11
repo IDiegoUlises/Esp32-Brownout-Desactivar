@@ -13,3 +13,5 @@ void loop()
 {
 }
 ```
+
+ESP32 está destinado principalmente a inhibir operaciones que podrían causar daños si ocurrieran con un voltaje demasiado bajo
