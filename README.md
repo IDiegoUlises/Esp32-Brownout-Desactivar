@@ -3,7 +3,7 @@
 #include "soc/soc.h"
 #include "soc/rtc_cntl_reg.h"
 
-investigar para que sirve utilizar esta libreria que es para desactivar el detector de voltaje del esp32
+investigar para que sirve utilizar esta libreria y para que sirve para desactivar el detector de voltaje del esp32
 
 ```c++
 #include "soc/soc.h"
